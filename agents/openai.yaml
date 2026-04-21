@@ -1,0 +1,4 @@
+interface:
+  display_name: "make-verifiable"
+  short_description: "모호한 요청을 7단계 HARD GATE 프로토콜로 검증 가능한 스펙으로 변환"
+  default_prompt: "Use $make-verifiable to transform this vague requirement into a verifiable spec."
